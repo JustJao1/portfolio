@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ritmo",
+    "url": "https://meuritmo.net",
+    "status": "captured",
+    "title": "Meu Ritmo · Seu dia em boa companhia"
+  },
+  {
+    "id": "mobile",
+    "url": "https://meuritmo.net/app",
+    "status": "captured",
+    "title": "Meu Ritmo · Seu dia em boa companhia"
+  },
+  {
+    "id": "imovance",
+    "url": "https://imovel-em-dia-portfolio.vercel.app",
+    "status": "captured",
+    "title": "Imovance | Gestão imobiliária"
+  },
+  {
+    "id": "doc",
+    "url": "https://portfolio-suite-jv.vercel.app/doc",
+    "status": "captured",
+    "title": "Doc Intelligence — Estúdio documental"
+  },
+  {
+    "id": "flow",
+    "url": "https://portfolio-suite-jv.vercel.app/flow",
+    "status": "captured",
+    "title": "FlowEngine — Editor de automações"
+  },
+  {
+    "id": "pulse",
+    "url": "https://portfolio-suite-jv.vercel.app/pulse",
+    "status": "captured",
+    "title": "Pulse Monitor — Observabilidade"
+  },
+  {
+    "id": "freight",
+    "url": "https://portfolio-suite-jv.vercel.app/freight",
+    "status": "captured",
+    "title": "Freight Connect — Bolsa de cargas"
+  },
+  {
+    "id": "api",
+    "url": "https://portfolio-suite-jv.vercel.app/api",
+    "status": "captured",
+    "title": "API Studio — HTTP workbench"
+  }
+]
