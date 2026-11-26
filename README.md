@@ -2,7 +2,7 @@
 
 Personal portfolio of João Victor da Silva, showcasing software projects and interactive demonstrations.
 
-[Visit portfolio](https://jv-software-portfolio.vercel.app/) · [GitHub profile](https://github.com/JustJao1)
+[Visit portfolio](https://joaovictorsilvadev.vercel.app/) · [GitHub profile](https://github.com/JustJao1)
 
 The static website is in `index.html`. Open it in a browser or serve it with `python -m http.server 8080`. Each software project is maintained in a separate repository.
 
