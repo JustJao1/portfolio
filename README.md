@@ -15,4 +15,4 @@ Independent portfolio project developed with AI assistance. Original project mat
 
 ## Desktop software
 
-- [LinkPilot v0.7.1 — experimental Windows application](projects/linkpilot/README.md). Project documentation; the original executable is retained separately and complete source is not currently published.
+- [LinkPilot v0.7.1 — experimental Windows application](https://github.com/JustJao1/linkpilot). Project documentation; the original executable is retained separately and complete source is not currently published.
