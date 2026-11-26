@@ -9,7 +9,7 @@ permissions:
   contents: read
 jobs:
   capture:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
@@ -27,7 +27,7 @@ jobs:
           path: screenshots/
   publish:
     needs: capture
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     permissions:
       contents: write
     steps:
