@@ -11,3 +11,8 @@ The static website is in `index.html`. Open it in a browser or serve it with `py
 Project owner and maintainer: [João Victor da Silva](https://github.com/JustJao1).
 
 Independent portfolio project developed with AI assistance. Original project materials remain under their owner's rights; no general license is granted by public availability. Third-party components retain their respective licenses.
+
+
+## Desktop software
+
+- [LinkPilot v0.7.1 — experimental Windows application](projects/linkpilot/README.md). Project documentation; the original executable is retained separately and complete source is not currently published.
