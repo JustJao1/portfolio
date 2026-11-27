@@ -54,3 +54,12 @@ Revisão posterior à criação das tags, em 26/11/2026 (São Paulo). A observa�
 6. Fazer um novo commit assinado no computador do responsável e verificar o selo GitHub. Os commits desta revisão documental foram realizados por integração, não com a chave privada pessoal. As tags antigas permanecem intactas.
 
 Nenhum gasto ou mudança de licença do código próprio foi autorizado. Esta revisão é documental, não uma certificação legal, não inclui execução dos builds ou exame de todos os artefatos distribuídos.
+
+
+## Teste pessoal de assinatura e atualização de finalidade
+
+O commit pessoal [bfcc27b5520362594fd6f637a17f630617cb9e28](https://github.com/JustJao1/portfolio/commit/bfcc27b5520362594fd6f637a17f630617cb9e28) foi consultado pela API GitHub. Autor associado: JustJao1; assinatura SSH verified=true, reason=valid. As onze tags já verificadas permanecem intactas.
+
+Traincore: o responsável informou que o serviço permanece gratuito, de acesso público via portfólio e sem monetização planejada. Essa finalidade não equivale a autorização comercial de mídias não comerciais ou de licença incerta, sobretudo quando expostas para divulgação profissional. Preservar créditos e obter permissão ou substituir as referências se necessário. README atualizado.
+
+Meu Ritmo: todas as 28 entradas MPL-2.0 são classificadas como desenvolvimento, e as 15 entradas com LGPL são opcionais; não se presume ausência no bundle. A revisão de créditos foi preparada na [branch de auditoria](https://github.com/JustJao1/meu-ritmo/tree/auditoria-creditos-2026-11-26), sem alterar o serviço comercial. A inspeção dos artefatos distribuídos continua pendente.
