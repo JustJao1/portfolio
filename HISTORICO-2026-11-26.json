@@ -1,0 +1,472 @@
+{
+  "repository": "JustJao1/portfolio",
+  "snapshot": "3a55c4d8ccd35dcbf9d9d481b908e6e1c82f8078",
+  "scope": "Histórico alcançável a partir do commit preservado, tal como retornado pela API GitHub; datas e autorias são metadados Git, não certificação jurídica.",
+  "complete": true,
+  "entries": [
+    {
+      "commit": "3a55c4d8ccd35dcbf9d9d481b908e6e1c82f8078",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T01:06:44Z",
+      "committer_date": "2026-11-27T01:06:44Z",
+      "subject": "Document project ownership, attribution and third-party rights",
+      "signature_verified": false
+    },
+    {
+      "commit": "c2ff4d9e3f44ec26f02177521df107e72b2f5c55",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T01:06:36Z",
+      "committer_date": "2026-11-27T01:06:36Z",
+      "subject": "Fix mobile button contrast, pin custom-domain products and add project attribution",
+      "signature_verified": false
+    },
+    {
+      "commit": "00ab5f3380dccd39d283d441163cfbabcb88b4d4",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T01:01:56Z",
+      "committer_date": "2026-11-27T01:01:56Z",
+      "subject": "Update Traincore source link after repository rename",
+      "signature_verified": false
+    },
+    {
+      "commit": "15d937e7c872eb7adadf4089980cdd270793300e",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:59:56Z",
+      "committer_date": "2026-11-27T00:59:56Z",
+      "subject": "Describe customizable Traincore exercise media",
+      "signature_verified": false
+    },
+    {
+      "commit": "98e7872258eea07488ef9380fb41a61131831709",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:59:54Z",
+      "committer_date": "2026-11-27T00:59:54Z",
+      "subject": "Update legacy Traincore route with full media library and personal media",
+      "signature_verified": false
+    },
+    {
+      "commit": "51ad0fc6cc69ae1bdb37aae6cb5028581863d785",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:49:50Z",
+      "committer_date": "2026-11-27T00:49:50Z",
+      "subject": "Keep legacy route compatible with Traincore",
+      "signature_verified": false
+    },
+    {
+      "commit": "56dbc5c93f8ee58523039c7c2e9ab3f23d8afd61",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:49:46Z",
+      "committer_date": "2026-11-27T00:49:46Z",
+      "subject": "Keep legacy route compatible with Traincore",
+      "signature_verified": false
+    },
+    {
+      "commit": "37cc3e0904faef55ab37621a4400c3b228597dfb",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:47:23Z",
+      "committer_date": "2026-11-27T00:47:23Z",
+      "subject": "Update Traincore project presentation in portfolio",
+      "signature_verified": false
+    },
+    {
+      "commit": "5ec65b07b9cb0661ac0af08c6cef32ed9852b5cc",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:25:46Z",
+      "committer_date": "2026-11-27T00:25:46Z",
+      "subject": "Update fitness portfolio card to Série Norte and link independent source repository",
+      "signature_verified": false
+    },
+    {
+      "commit": "14519da533dc3fc432f2545c627e4493be48d32c",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:24:38Z",
+      "committer_date": "2026-11-27T00:24:38Z",
+      "subject": "Rebrand training app as Série Norte and remove decorative human drawings",
+      "signature_verified": false
+    },
+    {
+      "commit": "b2ab82cd63821f777a5574cfff850f8e854b4dd6",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:12:47Z",
+      "committer_date": "2026-11-27T00:12:47Z",
+      "subject": "Document standalone Forma setup and known limitations",
+      "signature_verified": false
+    },
+    {
+      "commit": "fafb8138f3aeb56586eaf2b271d400f493ae80a5",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:12:44Z",
+      "committer_date": "2026-11-27T00:12:44Z",
+      "subject": "Link Forma portfolio card to independent deployment and refresh project illustration",
+      "signature_verified": false
+    },
+    {
+      "commit": "0c4712405cc344d5987ec46b139c9d4544257ca0",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:11:58Z",
+      "committer_date": "2026-11-27T00:11:58Z",
+      "subject": "Create distinct charcoal-orange Forma identity, curated exercise imagery, weekly planner and data migration",
+      "signature_verified": false
+    },
+    {
+      "commit": "1fa21aecf15f1b0c710af44a38016568ea3221d1",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T23:59:44Z",
+      "committer_date": "2026-11-26T23:59:44Z",
+      "subject": "Synchronize AI workout catalog with expanded exercise library",
+      "signature_verified": false
+    },
+    {
+      "commit": "997a7f98db7352419a39d9b6af70601bc4f64408",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T23:59:41Z",
+      "committer_date": "2026-11-26T23:59:41Z",
+      "subject": "Expand exercise library, improve beginner splits, field accessibility and chat recovery",
+      "signature_verified": false
+    },
+    {
+      "commit": "b9b874eb95323c673041ce97851f2176e05ee5a2",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T23:59:00Z",
+      "committer_date": "2026-11-26T23:59:00Z",
+      "subject": "Improve assistant safety, practical nutrition and training guidance, and request validation",
+      "signature_verified": false
+    },
+    {
+      "commit": "62ca8ba53987cb68e6ff7476bc48a180487d54e6",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T23:58:48Z",
+      "committer_date": "2026-11-26T23:58:48Z",
+      "subject": "Revise Forma UX, workout planning and tracking, recovery, library and local data handling",
+      "signature_verified": false
+    },
+    {
+      "commit": "5667678cf909c5efd1c121ed2f7bb43e19f9bc36",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T23:54:11Z",
+      "committer_date": "2026-11-26T23:54:11Z",
+      "subject": "Make rest intervals explicit with automatic and manual countdowns, warm-up pauses and recovery days",
+      "signature_verified": false
+    },
+    {
+      "commit": "d7da37f948b05969af066133615910740ba6dcc8",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T23:50:31Z",
+      "committer_date": "2026-11-26T23:50:31Z",
+      "subject": "Redesign both AI chats with independent message scrolling, compact responsive composer and keyboard-safe navigation",
+      "signature_verified": false
+    },
+    {
+      "commit": "a35b985abd55ac005350f26d390b5d11cba4aeaa",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T23:48:48Z",
+      "committer_date": "2026-11-26T23:48:48Z",
+      "subject": "Clarify per-side repetition wording",
+      "signature_verified": false
+    },
+    {
+      "commit": "8a89e4cab0c833113b098800c9924e92869ba7dd",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T23:48:42Z",
+      "committer_date": "2026-11-26T23:48:42Z",
+      "subject": "Polish time-based exercise labels and retain original warm-up prescriptions",
+      "signature_verified": false
+    },
+    {
+      "commit": "cada5ccef92449abf58bad68e86a0c141f61cb0b",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T23:48:28Z",
+      "committer_date": "2026-11-26T23:48:28Z",
+      "subject": "Explain workout terminology, add step-by-step warm-up and mobility examples, clarify series controls",
+      "signature_verified": false
+    },
+    {
+      "commit": "caec55bf9ce64294e73e1bea7680ea5486c80e00",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T23:46:18Z",
+      "committer_date": "2026-11-26T23:46:18Z",
+      "subject": "Remove personal workout from public defaults and require explicit code import",
+      "signature_verified": false
+    },
+    {
+      "commit": "46a75caf998d89912e1b354887347d1c84f4346c",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T23:42:49Z",
+      "committer_date": "2026-11-26T23:42:49Z",
+      "subject": "Use Vercel runtime OIDC request header for AI Gateway authentication",
+      "signature_verified": false
+    },
+    {
+      "commit": "b2e4a31646b6359dba0dea91e47aa807c92f3128",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T23:42:02Z",
+      "committer_date": "2026-11-26T23:42:02Z",
+      "subject": "Update Forma portfolio description for server-side AI integration",
+      "signature_verified": false
+    },
+    {
+      "commit": "6f20b09edf845e8a5cc46aa869f419068e1e8e02",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T23:41:57Z",
+      "committer_date": "2026-11-26T23:41:57Z",
+      "subject": "Improve contextual guidance and replace local guides with separate generative chat experiences",
+      "signature_verified": false
+    },
+    {
+      "commit": "a3c8db627340a25121132e02a5849e2d2f2f703d",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T23:41:26Z",
+      "committer_date": "2026-11-26T23:41:26Z",
+      "subject": "Add server-side generative training and nutrition assistants with validated workout output",
+      "signature_verified": false
+    },
+    {
+      "commit": "28ece123c2d8ea8c6cf9cd793fd9340f14630181",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T23:38:50Z",
+      "committer_date": "2026-11-26T23:38:50Z",
+      "subject": "Add portable workout sharing codes, links, preview and independent import",
+      "signature_verified": false
+    },
+    {
+      "commit": "0fb63538bbf22c039cf2f93e5a761609a48d7822",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T23:32:56Z",
+      "committer_date": "2026-11-26T23:32:56Z",
+      "subject": "Show Forma fitness application in portfolio with accurate beta limitations",
+      "signature_verified": false
+    },
+    {
+      "commit": "af10494d00ef1a6637313d06862251c8ede6e896",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T23:32:42Z",
+      "committer_date": "2026-11-26T23:32:42Z",
+      "subject": "Add Forma responsive fitness portfolio project with original training plan and local tools",
+      "signature_verified": false
+    },
+    {
+      "commit": "6e31a6b64c2c453c4c49f20a76945ac851b974d7",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T20:51:39Z",
+      "committer_date": "2026-11-26T20:51:39Z",
+      "subject": "Use Resumo and Resume labels for Portuguese and English PDFs",
+      "signature_verified": false
+    },
+    {
+      "commit": "2c7b8389b469d5f443d9c430995477b40000a615",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T20:43:45Z",
+      "committer_date": "2026-11-26T20:43:45Z",
+      "subject": "Add custom JV monogram favicon matching editorial noir design",
+      "signature_verified": false
+    },
+    {
+      "commit": "0df112241420f8c3029b7f722c82c16da2097ac2",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T20:43:05Z",
+      "committer_date": "2026-11-26T20:43:05Z",
+      "subject": "Use full Pontifícia Universidade Católica (PUC) name in resume",
+      "signature_verified": false
+    },
+    {
+      "commit": "65ac6a8d2e90aa7bdca1c18870f6e74594f9f750",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T20:43:02Z",
+      "committer_date": "2026-11-26T20:43:02Z",
+      "subject": "Use full Pontifícia Universidade Católica (PUC) name in resume",
+      "signature_verified": false
+    },
+    {
+      "commit": "842d04a44fe6c592259874e7d73466ace24b4951",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T20:42:52Z",
+      "committer_date": "2026-11-26T20:42:52Z",
+      "subject": "Standardize university name in portfolio",
+      "signature_verified": false
+    },
+    {
+      "commit": "74100b6680520d42cd36ba67f90ff2aaa80d08bc",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T20:41:45Z",
+      "committer_date": "2026-11-26T20:41:45Z",
+      "subject": "Clarify LinkPilot experimental status and source availability in both languages",
+      "signature_verified": false
+    },
+    {
+      "commit": "ac375b378fe749da4bde73045cc666c769fc684a",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T20:38:47Z",
+      "committer_date": "2026-11-26T20:38:47Z",
+      "subject": "Rewrite resume with explicit programming and advanced AI proficiency",
+      "signature_verified": false
+    },
+    {
+      "commit": "020cf8db3a24aa2078bfc8dfa18b80a910ad32c7",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T20:38:45Z",
+      "committer_date": "2026-11-26T20:38:45Z",
+      "subject": "Rewrite resume with explicit programming and advanced AI proficiency",
+      "signature_verified": false
+    },
+    {
+      "commit": "7eac7693bb4f9646a8dfb55c95dc1947ddee6a39",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T20:38:19Z",
+      "committer_date": "2026-11-26T20:38:19Z",
+      "subject": "Redesign portfolio in editorial noir and clarify programming and AI proficiency",
+      "signature_verified": false
+    },
+    {
+      "commit": "df3c4b91f90eb162bdff434bc09f19ce3d1f466c",
+      "author_login": "github-actions[bot]",
+      "author_date": "2026-11-26T20:26:08Z",
+      "committer_date": "2026-11-26T20:26:08Z",
+      "subject": "Build bilingual resumes",
+      "signature_verified": false
+    },
+    {
+      "commit": "639e83f27ecbd3cf1cdf01f7f23b121c719ac877",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T20:25:51Z",
+      "committer_date": "2026-11-26T20:25:51Z",
+      "subject": "Refine portfolio with animated nightscape and bilingual professional resumes",
+      "signature_verified": false
+    },
+    {
+      "commit": "3f2f52bc3b7f5c532604d14523bc034455c613bd",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T19:58:21Z",
+      "committer_date": "2026-11-26T19:58:21Z",
+      "subject": "Update university enrollment and portfolio address",
+      "signature_verified": false
+    },
+    {
+      "commit": "82a157b931ba9810c85bddbdd05375828a9ac8ce",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T19:34:22Z",
+      "committer_date": "2026-11-26T19:34:22Z",
+      "subject": "Show eight verified project screenshots directly with reliable lazy loading",
+      "signature_verified": false
+    },
+    {
+      "commit": "dbb4a5140cf5100aa9f4b8c962b2d066d4feb76c",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T19:33:14Z",
+      "committer_date": "2026-11-26T19:33:14Z",
+      "subject": "Make portfolio more personal with real project screenshot gallery",
+      "signature_verified": false
+    },
+    {
+      "commit": "b3defa05956176714fd1c3fd2482cb758011afe6",
+      "author_login": "github-actions[bot]",
+      "author_date": "2026-11-26T19:33:00Z",
+      "committer_date": "2026-11-26T19:33:00Z",
+      "subject": "Capture public project interfaces",
+      "signature_verified": false
+    },
+    {
+      "commit": "6c99302d9128eb4301f46b8ca880556518b091ec",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T19:32:02Z",
+      "committer_date": "2026-11-26T19:32:02Z",
+      "subject": "Use supported Ubuntu 24.04 for screenshot capture",
+      "signature_verified": false
+    },
+    {
+      "commit": "6b3d509dc10d9c6028990ad76ea0607d41120cb7",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T19:31:28Z",
+      "committer_date": "2026-11-26T19:31:28Z",
+      "subject": "Capture real public project screenshots with Playwright",
+      "signature_verified": false
+    },
+    {
+      "commit": "879a7dcfa35ab4ea113001e2912d70e5ada7b570",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T18:52:24Z",
+      "committer_date": "2026-11-26T18:52:24Z",
+      "subject": "Add direct professional email contact",
+      "signature_verified": false
+    },
+    {
+      "commit": "f7ec23f3956d7aad422923c4e43e2eedcfd08988",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T18:50:16Z",
+      "committer_date": "2026-11-26T18:50:16Z",
+      "subject": "Add technical case studies, education and downloadable résumé",
+      "signature_verified": false
+    },
+    {
+      "commit": "211f59c91e1581597c13a7440918fc24989b7b2a",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T18:44:48Z",
+      "committer_date": "2026-11-26T18:44:48Z",
+      "subject": "Reference the independent LinkPilot repository",
+      "signature_verified": false
+    },
+    {
+      "commit": "c920ccb06f332829b356475d39bb8c246b4e423b",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T18:44:45Z",
+      "committer_date": "2026-11-26T18:44:45Z",
+      "subject": "Redesign portfolio as a concise technical project showcase",
+      "signature_verified": false
+    },
+    {
+      "commit": "b15b14fb32049d78f87124cc5a412df4be7ddec2",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T18:38:10Z",
+      "committer_date": "2026-11-26T18:38:10Z",
+      "subject": "Restore original typography with more compact heading proportions",
+      "signature_verified": false
+    },
+    {
+      "commit": "e52a35efd7203d628cd949beeaee5c65528ec63d",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T18:28:37Z",
+      "committer_date": "2026-11-26T18:28:37Z",
+      "subject": "Document the LinkPilot project overview",
+      "signature_verified": false
+    },
+    {
+      "commit": "330a0add52635d73737adc70ca73e0efe9c8044e",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T18:28:33Z",
+      "committer_date": "2026-11-26T18:28:33Z",
+      "subject": "Improve portfolio typography and showcase LinkPilot desktop software",
+      "signature_verified": false
+    },
+    {
+      "commit": "2420b75b3a439d7b83fe2a7665612f3e8f9fc20a",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T18:28:05Z",
+      "committer_date": "2026-11-26T18:28:05Z",
+      "subject": "Restore LinkPilot experimental desktop project documentation",
+      "signature_verified": false
+    },
+    {
+      "commit": "8936425936bc038705b4957c3d1ddaac292f19a4",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T18:24:47Z",
+      "committer_date": "2026-11-26T18:24:47Z",
+      "subject": "Redesign personal portfolio with bilingual project showcases",
+      "signature_verified": false
+    },
+    {
+      "commit": "6a5df3fa43eb511060b7cd3ac097c7399fc2f535",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T18:05:37Z",
+      "committer_date": "2026-11-26T18:05:37Z",
+      "subject": "Publish independent portfolio website source",
+      "signature_verified": false
+    },
+    {
+      "commit": "c4bd7cbac12c38d34242c33eec4aa7eee1a15101",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T18:03:37Z",
+      "committer_date": "2026-11-26T18:03:37Z",
+      "subject": "Initialize project documentation",
+      "signature_verified": false
+    }
+  ]
+}
