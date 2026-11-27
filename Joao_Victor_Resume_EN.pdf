@@ -1,74 +1,138 @@
 %PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R
+>>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+<<
+/A <<
+/S /URI /Type /Action /URI (mailto:silva.joao.232334@gmail.com)
+>> /Border [ 0 0 0 ] /Rect [ 207 755.8898 333.8535 769.3898 ] /Subtype /Link /Type /Annot
+>>
 endobj
 5 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://justjao1.vercel.app/)
+>> /Border [ 0 0 0 ] /Rect [ 42 738.8898 121.2015 752.3898 ] /Subtype /Link /Type /Annot
+>>
 endobj
 6 0 obj
-<< /Length 4065 >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/JustJao1)
+>> /Border [ 0 0 0 ] /Rect [ 207 738.8898 294.1245 752.3898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://meuritmo.net)
+>> /Border [ 0 0 0 ] /Rect [ 499.5936 597.8898 553.2756 611.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/JustJao1/imovance)
+>> /Border [ 0 0 0 ] /Rect [ 524.6452 543.8898 553.2756 557.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://justjao1.vercel.app/#work)
+>> /Border [ 0 0 0 ] /Rect [ 519.53 489.8898 553.2756 503.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://justjao1.vercel.app/#work)
+>> /Border [ 0 0 0 ] /Rect [ 519.53 435.8898 553.2756 449.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/JustJao1/linkpilot)
+>> /Border [ 0 0 0 ] /Rect [ 524.6452 381.8898 553.2756 395.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R ] /Contents 16 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 15 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+13 0 obj
+<<
+/PageMode /UseNone /Pages 15 0 R /Type /Catalog
+>>
+endobj
+14 0 obj
+<<
+/Author (Jo\343o Victor da Silva) /CreationDate (D:20000101000000+00'00') /Creator (ReportLab PDF Library - www.reportlab.com) /Keywords () /ModDate (D:20000101000000+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (unspecified) /Title (Jo\343o Victor da Silva | Junior Software Developer) /Trapped /False
+>>
+endobj
+15 0 obj
+<<
+/Count 1 /Kids [ 12 0 R ] /Type /Pages
+>>
+endobj
+16 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2372
+>>
 stream
-0 0 0 rg 0 0 595 842 re f
-BT /F2 30 Tf .98 .97 .94 rg 1 0 0 1 42 786 Tm (JO\303O VICTOR DA SILVA) Tj ET
-BT /F2 15 Tf .92 .89 .84 rg 1 0 0 1 43 759 Tm (Junior Software Developer | Applied AI) Tj ET
-BT /F1 10 Tf .72 .72 .73 rg 1 0 0 1 43 737 Tm (S\343o Carlos, SP, Brazil | Remote | Native Portuguese \267 Intermediate English) Tj ET
-BT /F1 10 Tf .8 .8 .81 rg 1 0 0 1 43 721 Tm (silva.joao.232334@gmail.com  |  github.com/JustJao1  |  justjao1.vercel.app) Tj ET
-.23 .23 .24 RG .65 w 42 705 m 553 705 l S
-BT /F2 10.5 Tf .79 .75 .68 rg 1 0 0 1 43 690 Tm (PROFESSIONAL PROFILE) Tj ET
-BT /F1 10.7 Tf .89 .89 .89 rg 1 0 0 1 43 670 Tm (Junior software developer with programming knowledge and advanced proficiency in) Tj ET
-BT /F1 10.7 Tf .89 .89 .89 rg 1 0 0 1 43 655.5 Tm (using generative AI for software engineering. I build web applications, integrations,) Tj ET
-BT /F1 10.7 Tf .89 .89 .89 rg 1 0 0 1 43 641 Tm (automations and desktop tools, applying AI to requirements, implementation, code review,) Tj ET
-BT /F1 10.7 Tf .89 .89 .89 rg 1 0 0 1 43 626.5 Tm (debugging, testing and documentation. I have hands-on experience shipping and maintaining) Tj ET
-BT /F1 10.7 Tf .89 .89 .89 rg 1 0 0 1 43 612 Tm (independent projects and am pursuing further training in software engineering.) Tj ET
-.23 .23 .24 RG .65 w 42 592.5 m 553 592.5 l S
-BT /F2 10.5 Tf .79 .75 .68 rg 1 0 0 1 43 577.5 Tm (EXPERIENCE & PROJECTS) Tj ET
-BT /F2 12 Tf .98 .97 .94 rg 1 0 0 1 43 557.5 Tm (Meu Ritmo | SaaS and Android application) Tj ET
-BT /F1 10.7 Tf .89 .89 .89 rg 1 0 0 1 43 540.5 Tm (Independent personal organization and finance product. Worked on interfaces,) Tj ET
-BT /F1 10.7 Tf .89 .89 .89 rg 1 0 0 1 43 526 Tm (authentication, database integration, Pix payments, administration and APK distribution.) Tj ET
-BT /F2 12 Tf .98 .97 .94 rg 1 0 0 1 43 502.5 Tm (LinkPilot | AI-assisted desktop automation) Tj ET
-BT /F1 10.7 Tf .89 .89 .89 rg 1 0 0 1 43 485.5 Tm (Experimental software for offer discovery, affiliate links, AI-generated messages and) Tj ET
-BT /F1 10.7 Tf .89 .89 .89 rg 1 0 0 1 43 471 Tm (authorized WhatsApp distribution. Workflow configuration, scheduling and logs;) Tj ET
-BT /F1 10.7 Tf .89 .89 .89 rg 1 0 0 1 43 456.5 Tm (integrations are under validation and functionality is not guaranteed.) Tj ET
-BT /F2 12 Tf .98 .97 .94 rg 1 0 0 1 43 433 Tm (Software and automation projects) Tj ET
-BT /F1 10.7 Tf .89 .89 .89 rg 1 0 0 1 43 416 Tm (Imovance, Doc Intelligence, FlowEngine, Pulse Monitor, Freight Connect and API Studio:) Tj ET
-BT /F1 10.7 Tf .89 .89 .89 rg 1 0 0 1 43 401.5 Tm (demos for management, documents, workflows, monitoring, logistics and API testing.) Tj ET
-BT /F1 10.7 Tf .89 .89 .89 rg 1 0 0 1 43 387 Tm (Additional experience with bots and task automation for a private company.) Tj ET
-.23 .23 .24 RG .65 w 42 358.5 m 553 358.5 l S
-BT /F2 10.5 Tf .79 .75 .68 rg 1 0 0 1 43 343.5 Tm (TECHNICAL SKILLS) Tj ET
-BT /F1 10.7 Tf .89 .89 .89 rg 1 0 0 1 43 323.5 Tm (Programming: JavaScript, TypeScript, Python, HTML, CSS, SQL, Luau.) Tj ET
-BT /F1 10.7 Tf .89 .89 .89 rg 1 0 0 1 43 309 Tm (Web and data: React, Next.js, Node.js, REST APIs, Supabase, SQLite.) Tj ET
-BT /F1 10.7 Tf .89 .89 .89 rg 1 0 0 1 43 294.5 Tm (Applied AI: prompt engineering, context and requirements, agents, code review,) Tj ET
-BT /F1 10.7 Tf .89 .89 .89 rg 1 0 0 1 43 280 Tm (debugging, workflow automation, testing and output evaluation.) Tj ET
-BT /F1 10.7 Tf .89 .89 .89 rg 1 0 0 1 43 265.5 Tm (Tools: Git, GitHub, Vercel, Cloudflare, Gradle.) Tj ET
-.23 .23 .24 RG .65 w 42 246 m 553 246 l S
-BT /F2 10.5 Tf .79 .75 .68 rg 1 0 0 1 43 231 Tm (EDUCATION) Tj ET
-BT /F2 10.7 Tf .89 .89 .89 rg 1 0 0 1 43 211 Tm (Pontif\355cia Universidade Cat\363lica \(PUC\)) Tj ET
-BT /F1 10.7 Tf .89 .89 .89 rg 1 0 0 1 43 196.5 Tm (Software Engineering \227 enrolled for 2027 entry.) Tj ET
-BT /F1 10.7 Tf .89 .89 .89 rg 1 0 0 1 43 182 Tm (High school \227 expected completion in 2026.) Tj ET
-.23 .23 .24 RG .65 w 42 38 m 553 38 l S
-BT /F2 8 Tf .58 .58 .6 rg 1 0 0 1 43 23 Tm (JUSTJAO1   /   2026) Tj ET
-endstream
+Gau0E9lo>Q'#"0DoI6'$1`UsC9J5XN4L)Sk=iJg$06;\88:jPK>_)H:.R/A(+OMBM\Ro-Ea&A9lOm%7Rf<;epO'MU-p30OMI9P"<cQ7?q/QUqd:.U:93aE^cmPOX$L`@N:Vg]0\Ut/$NSk=C^R823[7;:i@Q5C-ZUc>K*``%F),QTo6)LC8)S1$r+.!k^:E;(J;^^k=hrqPP%`h1%roEX!]Sa2tF8NPZ[Zmb1Z$i)@["%e!"XHAB\7WVG^ZCbfM9oGXg_o("fK/9`V'??"A)bAt[J[Q1nGV3(B*J;,AnQT>@R]E"dghh])Un3-rf>.=M),6[Cg@S^g'IA*io.?aOV@':M1nRM+P@B#u@Q]jgRga.K'/erV1?nRb*sCOeeg1u`PK@iMTV8tVHJRlKRRti9jXT;E_s2PYLja&Sd;7O561j[KL+crEDs_-0mV(if6J=hq:(Mr7qokQZ\Io)7Rn0DoO<UU"p^QXO-Hj8^Y'rTU@_+pmfJU>/)C7gLYYCA&CB_tD*%sukPF,r6o,>17VT3W$3f-?;qj:'LOZW"k9ruM3<'RM9U>fF7C/)9RF'^^6S^XkZ78A&S8_C45A?6BK!`+lX>Y1'IX4f,S8,buMj'_=3CE$D[S('u3^p'cCU<S[ajTEW:$F3QKVE(;'2Q'a#]ZmPDXla_QNorsBFY-UG>;^%CgJ#h.NGKYNZd-);LV8N,I+bY7f!R:lpUkTdjU;.]#=OC*@oii;1/:%NK\&>%oW'DIld%!4?*fbX=>)_e4icI!-TnI:;;-*i$ZG9%1o5lCqtJ,uAI/2^9Z[UhfM)p[0S38W"(Bi"M<grBp;D/B-_A?:d'2WSa,\-BfH"JIhs$5L#U-9;Bb1g"Q+U*$RT&b=2-^6Z>r:BT7#7_RAGLm`D/<6;joco*6Hb6$,h8>`iid2SeHK_h;O)>/SMZt=$8e=#8lQ5sR1L!L!t!U+]NoV+m`4u`:7\'L]k.d$ltPW[=WlNX*&bh&HL'bam%5:T."PX*$:kq4ZJei:W.M@bS63U,WJ<M.2U7')50E&b]JVD^O.r634)p3A)qars1cOTo*0HbRO'Dsc-\-X^buqXuGAI/!:`D^;k(--*Yr+JpCk30(#W]Z=B;lq!pf^W+\,<SE\`KOcFVW5uau'mhkk4;9fuON&dN=gMiNJO8n,)NAHWja[>;jflW1+C`'Qt5J=SPU&F:R(p+kAa>r`mOVD)iY7##S(L(m(@.Df+2o$hpK@9ZEc&+Z]_#1R-ma/;,!cgVP4^Nf1Jp^ChN'%)6]pb8pfrNMnc(XjSVk%B8WeKpL)fcn1&t-e6HK]0SOqB&^$EPfX9)KFuaS&]EOtGY85.DiDnGbl@@$i-2#W?uPoqlTW)H=_kiiKJk89-:NRD\1h\+Zr17AAR[?ec\dYRVP+Z+<Tl,%f]1XFc-\<W\+GZ5SPC1aoqt/YN%!CLn/XJLJG_SNp%u9)$.MuXcPDEVQ.tfr)H,&H$IaW[!39D<[p6B!Al:S+FX+>BR+R=?)9)X1iX9V&3j/'ldaLWP9!m&)a9W+')?Oi53?eWZIVX!RWgfD)A2>:C0Y[?s&eFB"g(rC5#I6SWqPKDJHPGChd<@"S6/56S;<@@De#hp]#Y?uPE(`C'_Vcm\$7Yg#%#)7=R=m=Z=ABm/J&(25?I2@57P!u4i)W6q,u_&"C9L4h@_haN*#Jh'ZjQ(7"gq>?NuO8g:M6c<;6Slk*:GKZ5hbo5YVotbQXJ&/P:'DW!NkLLOar(ZgtSUiod:!tChq0kJLH=g=893*Kdf?F>JlT"Bu.<6.d:,VQKo"C9s8^'.T;[&n"<$sg)Ct>!S*'=])c<a8kp\Y2AdDh%=6Hf>ScmZ=.SR0O-_G6^\p"_4HAg`#BKqC0Fn332dkmN-ZD;1Sk\.(f=l__"Fj_CmGS-S5Oo'@oG;i(m_#n^Ai]n5iqqSX64:k/p\p&F#Fj(AFCWTRQuoe3E]KhWq>C89jEhGjhN@4RQJE[EOLoqG)@<ef+_?H&]'8:VbdiFOFZNls%S>E3V&NY.g=C(s8J]Y\g#adnXaIJ]pq<HLL$=pn!Xu2_`!r#&opX79K[FeJ4!+=KT(1gO@X/!1-LE.N;VP0!4<#5"'tptE_,D&L::^g6X]s#AYKfXVqE,iAYIuq<]tSU4rdF@rKU"DA?VQ$2`)5E9U3()3i2Q2&`%*-l!i=b0^@1n)Xu&r:MDnt'HAQZsVAAiH"*T\/'eQG:g,JV+R)?*4oZk5*\s/U``_:a`\&:Ok!7H*SN;^LX>]uVV%q4C@dEotdmAZEi=kYa%J%k<n</I=!e84Jk+nWd"?-<lIg=R5@D!(C\R?LZ#e#9?%G!ftaDH`AZgF&6SVXaU^@S_m+JY$7BoUsHZBQWl2`eu?k~>endstream
 endobj
 xref
-0 7
+0 17
 0000000000 65535 f 
-0000000009 00000 n 
-0000000058 00000 n 
-0000000115 00000 n 
-0000000251 00000 n 
-0000000348 00000 n 
-0000000450 00000 n 
+0000000073 00000 n 
+0000000114 00000 n 
+0000000221 00000 n 
+0000000333 00000 n 
+0000000514 00000 n 
+0000000688 00000 n 
+0000000862 00000 n 
+0000001034 00000 n 
+0000001222 00000 n 
+0000001405 00000 n 
+0000001589 00000 n 
+0000001779 00000 n 
+0000002047 00000 n 
+0000002117 00000 n 
+0000002471 00000 n 
+0000002532 00000 n 
 trailer
-<< /Size 7 /Root 1 0 R >>
+<<
+/ID 
+[<79820de662d3476485f31fd2a9470227><79820de662d3476485f31fd2a9470227>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 14 0 R
+/Root 13 0 R
+/Size 17
+>>
 startxref
-4566
+4996
 %%EOF
