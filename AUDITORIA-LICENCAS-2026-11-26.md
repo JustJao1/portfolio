@@ -63,3 +63,12 @@ O commit pessoal [bfcc27b5520362594fd6f637a17f630617cb9e28](https://github.com/J
 Traincore: o responsável informou que o serviço permanece gratuito, de acesso público via portfólio e sem monetização planejada. Essa finalidade não equivale a autorização comercial de mídias não comerciais ou de licença incerta, sobretudo quando expostas para divulgação profissional. Preservar créditos e obter permissão ou substituir as referências se necessário. README atualizado.
 
 Meu Ritmo: todas as 28 entradas MPL-2.0 são classificadas como desenvolvimento, e as 15 entradas com LGPL são opcionais; não se presume ausência no bundle. A revisão de créditos foi preparada na [branch de auditoria](https://github.com/JustJao1/meu-ritmo/tree/auditoria-creditos-2026-11-26), sem alterar o serviço comercial. A inspeção dos artefatos distribuídos continua pendente.
+
+## Correção aplicada após a auditoria
+
+As observações anteriores registram o estado histórico, anterior à correção. A versão atual utiliza RepDB Free Tier v1.0 (atribuição visível; uso pessoal/comercial dentro de sites; sem redistribuir dataset/API) e Workout Free Videos v2.0.0 (CC0). Foram retiradas as referências embutidas de StrengthLog, Free Exercise DB, Free Exercise DB with Videos e prévias do YouTube. O [mantenedor do Free Exercise DB não confirma a origem das imagens](https://github.com/yuhonas/free-exercise-db/issues/2), razão adicional para substituição. Não foram usados arquivos premium nem imagens como entrada de IA. O link de pesquisa externa do YouTube não incorpora conteúdo.
+
+- Traincore: [commit de correção](https://github.com/JustJao1/traincore/commit/60ab631e309294a757b2fc31a081635e57f32716).
+- Portfólio: [commit de sincronização](https://github.com/JustJao1/portfolio/commit/c7bf3188bf2c3bc3ecce65d1d7e432eb57765515).
+- 55 exercícios com ilustrações, 53 com duas poses, 15 com vídeo. Todos os caminhos mapeados foram encontrados nos catálogos upstream; sintaxe do script HTML validada. As 55 definições de exercício e a lógica de fichas permaneceram inalteradas. Variantes de referência foram sinalizadas quando necessário. Ainda não foi realizada revisão visual ou clínica individual de todas as poses nem teste de reprodução em navegador.
+- As tags de autoria antigas permanecem intactas e correspondem ao estado histórico, não à nova versão.
