@@ -1,0 +1,155 @@
+{
+  "schema": 1,
+  "repository": "JustJao1/api-studio",
+  "commit": "d674987f2f980a3fe6b58e69400eadf8d7ce474a",
+  "git_tree": "73ecddc796bdacdf59b5693c3d05169d1fd8efc3",
+  "sha256_git_inventory": "df0459b984b299d41789b894ab837690cf0845b8f14956e1ca6622f8b768f13d",
+  "sha256_file_manifest": "6e128cdaacfc9d9de6b6afb30bad30e84fcd6da4a9d4ddc41d70d2522d19ca23",
+  "files": [
+    {
+      "path": ".github/workflows/verify.yml",
+      "mode": "100644",
+      "git_object": "67dc56fd92692061512c41ac0e4c1277dc7a9f0c",
+      "bytes": 399,
+      "sha256": "ad58416579c19cdafc2ebe306c0d3eb935cf0e3020603c3ece3fe33822805418",
+      "lfs_pointer": false
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "git_object": "227589229f99ca4edd6b7e136bda91c76967de9a",
+      "bytes": 56,
+      "sha256": "a5544e602962a6cf7bef5c96bdee36e50d284a7fb4084cd0caf673a25dd0e3b6",
+      "lfs_pointer": false
+    },
+    {
+      "path": "OWNERSHIP.md",
+      "mode": "100644",
+      "git_object": "85ea17c6580f9068abdb29ab71aedc7ba91f36f2",
+      "bytes": 356,
+      "sha256": "ad4a4b893685e55dd77d256d798a70cb8ff733875aedf088f60d8898b1a3d1b7",
+      "lfs_pointer": false
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "git_object": "eca207c511fd13ae8d10f12e47eed2187cdefc74",
+      "bytes": 1183,
+      "sha256": "acc1abb11c06ad4850779e88f99de2550ad6c02179355b72e9d161a2527d416c",
+      "lfs_pointer": false
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "mode": "100644",
+      "git_object": "2c6d62d49360b2f0ce74d3a78b38708402b6080c",
+      "bytes": 139,
+      "sha256": "8c1f0b7665e2f2babf25a32651e9492786e418f64d8bb64126864dadf23e63a5",
+      "lfs_pointer": false
+    },
+    {
+      "path": "api/sample.py",
+      "mode": "100644",
+      "git_object": "b7ae724af307aae67429f51cb2fe3cb5e84a81bb",
+      "bytes": 1307,
+      "sha256": "712bfaf512690031ee7241c719612e4e87d15816e36659b9314e70959558de84",
+      "lfs_pointer": false
+    },
+    {
+      "path": "api/workspace.py",
+      "mode": "100644",
+      "git_object": "6b174e1433a006ef3a3ad552f5a615a125dc4e2e",
+      "bytes": 4546,
+      "sha256": "d5416aab6d7ec50a2969fb8004670b7ef9735cf397718ea0c1625f1b9ea68424",
+      "lfs_pointer": false
+    },
+    {
+      "path": "lib/engine.py",
+      "mode": "100644",
+      "git_object": "a6bb1facfbedf9efb3075e7c24c4ffea9d900caf",
+      "bytes": 11304,
+      "sha256": "5ce9bdeb6ca8c6f61714623593d70d812be21b94c67662d68328d3da27fbfe4c",
+      "lfs_pointer": false
+    },
+    {
+      "path": "lib/workspace_core.py",
+      "mode": "100644",
+      "git_object": "fe03089b0e39c69685108ee726bd38a9df23a362",
+      "bytes": 2363,
+      "sha256": "1cf047269fd5b2f632e44059511031de2295a2837390caae271d78820e081238",
+      "lfs_pointer": false
+    },
+    {
+      "path": "public/base.css",
+      "mode": "100644",
+      "git_object": "2c2cb0b49515cf747d955f045f442a0146eeea0f",
+      "bytes": 1805,
+      "sha256": "f3f425139634a4900c15ac69a425483b1e654243a715216857f9c77ff91dc1ec",
+      "lfs_pointer": false
+    },
+    {
+      "path": "public/common.js",
+      "mode": "100644",
+      "git_object": "dc515e42dada01757c2c07e6ac4ac59ed6603fab",
+      "bytes": 2978,
+      "sha256": "e1a400468e6b9a07a1a8b1b92108f9123b473974912091c351535922b2b74317",
+      "lfs_pointer": false
+    },
+    {
+      "path": "public/index.html",
+      "mode": "100644",
+      "git_object": "4ba510c882ae7b31d666595d679b15eff0b18126",
+      "bytes": 38298,
+      "sha256": "8164667da8d6a23b92086f1ac8fac70d99480197f8f27e5ff71d5875643712e5",
+      "lfs_pointer": false
+    },
+    {
+      "path": "public/polish.css",
+      "mode": "100644",
+      "git_object": "e83c7a1977eca0ad169d44a8d6395ca02ae00677",
+      "bytes": 2802,
+      "sha256": "ffddd0780812c177455c8ddcb766c5231a63401c99423c2990c3aea8b4a2efcc",
+      "lfs_pointer": false
+    },
+    {
+      "path": "public/polish.js",
+      "mode": "100644",
+      "git_object": "ecc3fa51f706d9417f319caec1143c0b406e5f1b",
+      "bytes": 3449,
+      "sha256": "0a7adf0562ad929e3d46fd323b6d995d414cc9118b7d967e91ac3609d9da039e",
+      "lfs_pointer": false
+    },
+    {
+      "path": "requirements.txt",
+      "mode": "100644",
+      "git_object": "b7c72a67b2a8e676950be23fbaa8307c8bfdd94b",
+      "bytes": 25,
+      "sha256": "d195d93d1dbb2461b703d41642ba0796d275e4cd0438897c2f11f824f578a3e9",
+      "lfs_pointer": false
+    },
+    {
+      "path": "run.py",
+      "mode": "100644",
+      "git_object": "dc92c6dfa2a74350212e4951dac1acf129b0256b",
+      "bytes": 1489,
+      "sha256": "0eca4c185d94108c0f180ae1e1d6c6c91ba7cfb23d9e232f26c6e9bf633da656",
+      "lfs_pointer": false
+    },
+    {
+      "path": "tests/test_workspace.py",
+      "mode": "100644",
+      "git_object": "17fe2c973afd615783eac29f97346ccc2479e83a",
+      "bytes": 826,
+      "sha256": "8a614792b1096f91f2d1afa06cb0e988f2370fe667b65bf9f2be072ea01363fa",
+      "lfs_pointer": false
+    },
+    {
+      "path": "vercel.json",
+      "mode": "100644",
+      "git_object": "28706bad519245db70508b5567dca28902945bdb",
+      "bytes": 240,
+      "sha256": "7a2ad82bb2b5f7d4c59d9681aed1ec9f2be606dd884416b92976a02042de0f5b",
+      "lfs_pointer": false
+    }
+  ],
+  "scope": "Exact tracked Git blob bytes; excludes untracked files, external services/media, LFS content and submodule content. LinkPilot snapshot contains documentation only."
+}

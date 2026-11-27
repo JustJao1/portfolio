@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "repository": "JustJao1/linkpilot",
+  "commit": "a4aad7be70e37526e6e38fca84b759c3d4919213",
+  "git_tree": "d426e307dccf32c572c0be0c63013a23da54d6c2",
+  "sha256_git_inventory": "94562c0ec68b8c6a8f83223724e43c86900031a83f110a138e965c0e870da29a",
+  "sha256_file_manifest": "4ff6256caaf72b5c121115c374dd7dd6a7136bda664b65310dda95c99d9ec981",
+  "files": [
+    {
+      "path": "OWNERSHIP.md",
+      "mode": "100644",
+      "git_object": "ab60d54664aaf86376ad38cd4b092e2a4a370e1f",
+      "bytes": 719,
+      "sha256": "7eb06ca4ae236ea81d5206b03946b4fb773d65c20195ef01471797769fa46bef",
+      "lfs_pointer": false
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "git_object": "d8d12702dc5a5a7930fdc1de68db8c51eb4a8ea5",
+      "bytes": 5168,
+      "sha256": "41ea79761e6e6c9b7620b7474f3c1a54c5f76e5cfee539042bc6d530cbef96af",
+      "lfs_pointer": false
+    }
+  ],
+  "scope": "Exact tracked Git blob bytes; excludes untracked files, external services/media, LFS content and submodule content. LinkPilot snapshot contains documentation only."
+}

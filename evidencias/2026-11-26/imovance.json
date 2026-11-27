@@ -1,0 +1,195 @@
+{
+  "schema": 1,
+  "repository": "JustJao1/imovance",
+  "commit": "bd2c47cfd074f903c4daa2ff62c740623643aed9",
+  "git_tree": "540dbb568aedc58ce0a564f691a752e5686b2b58",
+  "sha256_git_inventory": "f5155b9111562f494b8a7c075df805813f6421673085119b8d88770077d4e547",
+  "sha256_file_manifest": "035943cbeccd0ea598fb30ae5d5f65120e95f04344f881d9ee0ba8b2f5261f89",
+  "files": [
+    {
+      "path": ".env.example",
+      "mode": "100644",
+      "git_object": "650b83244be30af51b0a3b31c2378e4c8e0af4ed",
+      "bytes": 327,
+      "sha256": "6d54cddb1506393baa987b693f25e6aaed9310230615a05d81d1223ab187a7cb",
+      "lfs_pointer": false
+    },
+    {
+      "path": ".github/workflows/ci.yml",
+      "mode": "100644",
+      "git_object": "76de8e9eb7b779101393c7bec2839e1ae180bd3c",
+      "bytes": 502,
+      "sha256": "faa96613e9a9a43ef788e9b9de6eb6edbc5a8a3dae23f47dadbe003a3c8db2a0",
+      "lfs_pointer": false
+    },
+    {
+      "path": ".github/workflows/pages.yml",
+      "mode": "100644",
+      "git_object": "62b90617ad39171c2a2a452001b0228d5eef6ddf",
+      "bytes": 775,
+      "sha256": "c9ec59e2c1094e0f8b5d7d13fa79cd385ff6764845421723d76da676831847b5",
+      "lfs_pointer": false
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "git_object": "ce6a14ab2ccd89b2d74a7fa4b041eae9f7a620fd",
+      "bytes": 136,
+      "sha256": "d18d38124aae556304ee6fb199e2bd930a7ebc0b20a292eb7f0f228c3ce40b84",
+      "lfs_pointer": false
+    },
+    {
+      "path": "Iniciar-Windows.bat",
+      "mode": "100644",
+      "git_object": "cf9d1f2f693b2905b03ba7ca6a0613aa94ec2b1e",
+      "bytes": 195,
+      "sha256": "511ef133c7d8df0c7f4cb1bf0c460e2fee9ce12dee48eeaac8c3573b658ae19e",
+      "lfs_pointer": false
+    },
+    {
+      "path": "OWNERSHIP.md",
+      "mode": "100644",
+      "git_object": "63bd295255f45c4c0b55fcb18621ebe25fc35f29",
+      "bytes": 759,
+      "sha256": "17e8e42e03b65a9fd379a6977309b144b26d9355630829e31b0dab52f8e0f7bb",
+      "lfs_pointer": false
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "git_object": "b9108b24dfbcba202a59022da4732becb8c5cb77",
+      "bytes": 4097,
+      "sha256": "74da82c4e9e8f81a9b5fa726bcb27c2bcb6eb2b8afb72d80b28b3425de76384a",
+      "lfs_pointer": false
+    },
+    {
+      "path": "app.py",
+      "mode": "100644",
+      "git_object": "8335bd0cf4ba47bebe5cd79a45b055d76c514759",
+      "bytes": 18278,
+      "sha256": "8f5f2313f627af9be245d56e1e0bff3f702971c3b4ecb6265f05dc188c2e2c86",
+      "lfs_pointer": false
+    },
+    {
+      "path": "commercial.py",
+      "mode": "100644",
+      "git_object": "cc03a6a65c7ac61d12fabb5ba200afd3d7835f4d",
+      "bytes": 13372,
+      "sha256": "ef07705c029e0ff124f8a9c1383ff344f34b373bc8638fb7b58a97a8370fd704",
+      "lfs_pointer": false
+    },
+    {
+      "path": "docs/README.pt-BR.md",
+      "mode": "100644",
+      "git_object": "81e92388c9724ffa93f6def624c2abeb3d7fdbe7",
+      "bytes": 2422,
+      "sha256": "c93737627edb2b6cce286d3ef1a015d9c79dd98728781846e7f55345b1aeb751",
+      "lfs_pointer": false
+    },
+    {
+      "path": "docs/api.md",
+      "mode": "100644",
+      "git_object": "18dc49549cfcab3b442534f6543997fb42a0e9c3",
+      "bytes": 2811,
+      "sha256": "cd11a385245d45b572d50376811f407cda7e6cab1c13735aea369fe9b68d3bb3",
+      "lfs_pointer": false
+    },
+    {
+      "path": "docs/architecture.md",
+      "mode": "100644",
+      "git_object": "a0b965e3ee0f163a53edf148000cc441984f5373",
+      "bytes": 2571,
+      "sha256": "1cb1a8c9d625ab3e90f9e2b03b629c276e55b847fa405a481a0e646246c66d93",
+      "lfs_pointer": false
+    },
+    {
+      "path": "operations.py",
+      "mode": "100644",
+      "git_object": "1557e455ef9255ee4f42698df86883ecbd544a18",
+      "bytes": 2908,
+      "sha256": "ca203453f7981ed3470fce7c59cfc91021e916ddd7ccd64ef10800847838bc56",
+      "lfs_pointer": false
+    },
+    {
+      "path": "schema.sql",
+      "mode": "100644",
+      "git_object": "1d304a9f7084a6a18da82f3cc0bf38538873eef6",
+      "bytes": 5823,
+      "sha256": "216df085fe1a5f601608e256b1ad3be9ca03dba96ad5ebbf340074da0e109b5a",
+      "lfs_pointer": false
+    },
+    {
+      "path": "scripts/build_demo.py",
+      "mode": "100644",
+      "git_object": "de5cf2ac4b24af325573ad8d86c84c83ddfdcc31",
+      "bytes": 1003,
+      "sha256": "b8da5065e24558d1e04f6a273e3dcb03572d246f766c561632c479e85c313fd5",
+      "lfs_pointer": false
+    },
+    {
+      "path": "static/app.js",
+      "mode": "100644",
+      "git_object": "1a321a49f903a86a97fb93574cc83f40ad60c3e8",
+      "bytes": 96343,
+      "sha256": "fdc1d6d6f4b241a2cbe84f28fdd95f37a255bd475ab22bbc14e0c4ce7df31cd8",
+      "lfs_pointer": false
+    },
+    {
+      "path": "static/demo.html",
+      "mode": "100644",
+      "git_object": "fbac99e16e08efb40e0113de3f032ef96b07a237",
+      "bytes": 18424,
+      "sha256": "e75d0c4582ca4fb43c9f51dfc9c3bcd02e5eaed2a5d73ea433b467f43ce88c4f",
+      "lfs_pointer": false
+    },
+    {
+      "path": "static/index.html",
+      "mode": "100644",
+      "git_object": "81f2cd4ea363d5fc6af5f00b9eb29ed31072127d",
+      "bytes": 1358,
+      "sha256": "b0660fb60885321c22a989ac2d1918f7a3b69688a869da4e8c15ea71288084a5",
+      "lfs_pointer": false
+    },
+    {
+      "path": "static/style.css",
+      "mode": "100644",
+      "git_object": "55069bcf6802a6798890bba76bcd09b91052c903",
+      "bytes": 55511,
+      "sha256": "cec9c4f487c519b1b473d93939d73f7419e36298cdd0a854ab87fa0d74e728dc",
+      "lfs_pointer": false
+    },
+    {
+      "path": "tests/test_commercial.py",
+      "mode": "100644",
+      "git_object": "e21ea0c74d6e87251cb24b523b173e2495ee6ed0",
+      "bytes": 3828,
+      "sha256": "f4b15169948d1f98ee0ffcd3433ea23fe92526096cd5d5e35560ffad4443740f",
+      "lfs_pointer": false
+    },
+    {
+      "path": "tests/test_core.py",
+      "mode": "100644",
+      "git_object": "8780d87af1172d80fce8735ec49cd26b9cfde583",
+      "bytes": 3382,
+      "sha256": "67a1dfa91d7b18d8390c788dc96627f1964c012e29077c32559c70f96547a408",
+      "lfs_pointer": false
+    },
+    {
+      "path": "tests/test_http.py",
+      "mode": "100644",
+      "git_object": "04bbfd7f8243298c8d447efd65cf87d203ee3554",
+      "bytes": 4185,
+      "sha256": "43348e86af08b776b06e2e4487b6f794b2f49ef11127537d7ed59fd207ebdeb6",
+      "lfs_pointer": false
+    },
+    {
+      "path": "tests/test_operations.py",
+      "mode": "100644",
+      "git_object": "39ea6743fb866f9a4fbdfe240c388aaff047e0f1",
+      "bytes": 3207,
+      "sha256": "39d1e73992ee907fcd336a867e502a411178d1f939c30cae98e4174e5da68f8f",
+      "lfs_pointer": false
+    }
+  ],
+  "scope": "Exact tracked Git blob bytes; excludes untracked files, external services/media, LFS content and submodule content. LinkPilot snapshot contains documentation only."
+}

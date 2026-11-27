@@ -1,0 +1,675 @@
+{
+  "schema": 1,
+  "repository": "JustJao1/meu-ritmo-app",
+  "commit": "4885932f7905724672cabc9c2b1dfbf28e522fab",
+  "git_tree": "5c54c5f0003306d1af89cddf03036b4644dff9a1",
+  "sha256_git_inventory": "61d8f6836fe8b4e31f194068dd3059421f10580c9438ff7cf1e3bb2f1cd31674",
+  "sha256_file_manifest": "7c5bbf38d2bd7b5e1baa30f3fea186ec01e34e84fd99b1258a05bae5a2763e97",
+  "files": [
+    {
+      "path": ".github/import-completed.json",
+      "mode": "100644",
+      "git_object": "6df4a70bf50bc31337d1ab638d8b3f752fa58281",
+      "bytes": 138,
+      "sha256": "73996f2ca3bb968b8e053bc8ac1a82f0ccecbd3fd00073c472df1f91efeed29b",
+      "lfs_pointer": false
+    },
+    {
+      "path": ".github/workflows/android-build.yml",
+      "mode": "100644",
+      "git_object": "b4f25a02b4d2cd3e789cb024c1b349e4c73eb978",
+      "bytes": 1557,
+      "sha256": "337cad16dcfafe2c59a82d743b832d28a04f86ce386f9e819fa98bf493be7eb2",
+      "lfs_pointer": false
+    },
+    {
+      "path": ".github/workflows/android-emulator-test.yml",
+      "mode": "100644",
+      "git_object": "8b3668aa50fdb38b0fcee6717e1e958bbf118478",
+      "bytes": 2241,
+      "sha256": "147739ccc4c4cf94da08015cd2c4d853e6152ea7c6f67df5d9ca403aa2150c5e",
+      "lfs_pointer": false
+    },
+    {
+      "path": ".github/workflows/android-release.yml",
+      "mode": "100644",
+      "git_object": "1f5147736f1c0fddd6c8e6f4b7bad0f230bac7a3",
+      "bytes": 4710,
+      "sha256": "2b79f3efd256277a004d25a5b9f9a3308f4e6d6bc5990d4ee4c637d1590e5274",
+      "lfs_pointer": false
+    },
+    {
+      "path": ".github/workflows/deploy.yml",
+      "mode": "100644",
+      "git_object": "b8226640aacb3b964f13ca9750ddb1fa54fc1126",
+      "bytes": 543,
+      "sha256": "6be74d434116f030b284539e10820fcb2d9eef225a54ca1ab697b8bed816e56f",
+      "lfs_pointer": false
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "mode": "100644",
+      "git_object": "950a845b3e350f58b6e3c769e1c8ab012daa0d86",
+      "bytes": 455,
+      "sha256": "126bc92483e94649c7fad7ba6eec5f2f3e0e72aee6632755765fff3d01e865b9",
+      "lfs_pointer": false
+    },
+    {
+      "path": ".github/workflows/visual-audit.yml",
+      "mode": "100644",
+      "git_object": "227b654f3988aba801f583c19784aefe6013128c",
+      "bytes": 1010,
+      "sha256": "8b4ccdb02f000b4ee9214414269486397381cea8c972e0b0bd49938ae06ca0af",
+      "lfs_pointer": false
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "git_object": "a1e9460406504c624e79028b7f15b080b56c6d14",
+      "bytes": 202,
+      "sha256": "5ee8688c25bcdd6fef2046d3d1a539a07d22020cd9ff924532bf9a6034642a9a",
+      "lfs_pointer": false
+    },
+    {
+      "path": "OWNERSHIP.md",
+      "mode": "100644",
+      "git_object": "487ce81d5bdbd31161d22de42a8f8af65e0783c7",
+      "bytes": 769,
+      "sha256": "63ddd7144618de9a9af24d8161613f0827ed0f68a87da182bcc2820d9b60a61f",
+      "lfs_pointer": false
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "git_object": "2eb525c33a7c795efe5bd9422f92cdde617ece67",
+      "bytes": 2415,
+      "sha256": "c06e7f65acc9f9c10b20035130848a82aba77ae2196f22ca89d35d4f1e3f9ac6",
+      "lfs_pointer": false
+    },
+    {
+      "path": "RELEASE-APPEARANCE.md",
+      "mode": "100644",
+      "git_object": "f7c11599d5e9996c53abb6f01906b12e6734396a",
+      "bytes": 1796,
+      "sha256": "66b3074b6e0021e97b5fc8339f0c057430b1f82d653af09c57d381108da1c76d",
+      "lfs_pointer": false
+    },
+    {
+      "path": "android/app/build.gradle",
+      "mode": "100644",
+      "git_object": "1769830ab7ad2f3f5e44911687d16c19a639d1e3",
+      "bytes": 1401,
+      "sha256": "39380807811080c4f57f45292f7a2843a144aeecb6948f6dd7d078be887bf5b1",
+      "lfs_pointer": false
+    },
+    {
+      "path": "android/app/src/main/AndroidManifest.xml",
+      "mode": "100644",
+      "git_object": "a51c27707b88999d0ca3bab3f6ed031cf59ae0de",
+      "bytes": 2037,
+      "sha256": "759560a6025ddce6e118ad7e450e7777785d036168fdbae39f005cd3455498d5",
+      "lfs_pointer": false
+    },
+    {
+      "path": "android/app/src/main/java/br/com/joaovictor/meuritmolite/AlarmReceiver.java",
+      "mode": "100644",
+      "git_object": "af0a9295581f12df97e8670687db6060223f39ba",
+      "bytes": 1755,
+      "sha256": "93618a47d38c9bba28b3c37acb3df36c761f762f357feef13033b5e8eaecdb3e",
+      "lfs_pointer": false
+    },
+    {
+      "path": "android/app/src/main/java/br/com/joaovictor/meuritmolite/MainActivity.java",
+      "mode": "100644",
+      "git_object": "368614e93267d4bcfd16cb556c23c6d616eaa25e",
+      "bytes": 12369,
+      "sha256": "a1fdaff2f3975a5c3d8033141eed020467e534010994a145c7d9a27af82ebee5",
+      "lfs_pointer": false
+    },
+    {
+      "path": "android/app/src/main/java/br/com/joaovictor/meuritmolite/Occurrence.java",
+      "mode": "100644",
+      "git_object": "0b0785b503d85e97fd371ed11ffcd8116656d978",
+      "bytes": 1092,
+      "sha256": "7a254e97f757d8e1a9320be51b563c17e2d51232091b0ad2e0d91fd308b22179",
+      "lfs_pointer": false
+    },
+    {
+      "path": "android/app/src/main/java/br/com/joaovictor/meuritmolite/OnlineActivity.java",
+      "mode": "100644",
+      "git_object": "ec210376558a8912ed6c907b65c2e505f30aed5c",
+      "bytes": 11430,
+      "sha256": "34d8cc8fe08d1cbe79842c79f70747ebfe347c25cb85e34ded0c9b761554546c",
+      "lfs_pointer": false
+    },
+    {
+      "path": "android/app/src/main/java/br/com/joaovictor/meuritmolite/RestoreReceiver.java",
+      "mode": "100644",
+      "git_object": "956e629dd831a72c9020c2c4dc50c6bf3c51b94a",
+      "bytes": 471,
+      "sha256": "2f2509e940881c63dde8c0ca4b4d07974c5244bfff74562619dc70c1f5f0a506",
+      "lfs_pointer": false
+    },
+    {
+      "path": "android/app/src/main/java/br/com/joaovictor/meuritmolite/RingingService.java",
+      "mode": "100644",
+      "git_object": "50f894a0957647396c7ea4583eb850696a5dc956",
+      "bytes": 5833,
+      "sha256": "41dc392e64c16a8b36d376373c167462f53d9f3a3cdbad9d5b8c1b51956eb388",
+      "lfs_pointer": false
+    },
+    {
+      "path": "android/app/src/main/java/br/com/joaovictor/meuritmolite/Scheduler.java",
+      "mode": "100644",
+      "git_object": "e32fdc7febab10e932b3f91ad72f7e2b72ad807b",
+      "bytes": 7846,
+      "sha256": "90270776acecf6c3ac20100c5bba435a3517ac6e89ba2f4c1ee151b9afe49eee",
+      "lfs_pointer": false
+    },
+    {
+      "path": "android/app/src/main/java/br/com/joaovictor/meuritmolite/UpdateGate.java",
+      "mode": "100644",
+      "git_object": "8744ce1904d5a61060c20af03b8a13190a9e6878",
+      "bytes": 4995,
+      "sha256": "adda8228fe8ca5c6c7bc8ebe0463aa4ad9f4b6d6163317446630506ee7fead8c",
+      "lfs_pointer": false
+    },
+    {
+      "path": "android/app/src/main/res/drawable/app_icon.xml",
+      "mode": "100644",
+      "git_object": "604e2a73bea2c6ed6cc9648b98d7d030574c33d4",
+      "bytes": 1687,
+      "sha256": "6916138ae24b3ec107f8c9a9c5f4c9e4b11cbd6720aebce719be4af53102ba26",
+      "lfs_pointer": false
+    },
+    {
+      "path": "android/app/src/main/res/drawable/ic_notification.xml",
+      "mode": "100644",
+      "git_object": "812936261c2ff69a2819ffbfd157c1ce68517808",
+      "bytes": 311,
+      "sha256": "0eaa5abc2118d171962cd3f494e44e543702dd03b94d4c551d8d187f6749dd37",
+      "lfs_pointer": false
+    },
+    {
+      "path": "android/app/src/main/res/drawable/mr_alarm.xml",
+      "mode": "100644",
+      "git_object": "c216071ce314f00abe93b6dcb89af1ff1fd00ffe",
+      "bytes": 582,
+      "sha256": "7565a46e7be73f5c57b358a184d99620992d30f9d2afc802d19366153a793439",
+      "lfs_pointer": false
+    },
+    {
+      "path": "android/app/src/main/res/drawable/mr_control_primary.xml",
+      "mode": "100644",
+      "git_object": "8606410e1a3281153a2e82ba0edf08b448d36755",
+      "bytes": 291,
+      "sha256": "6c7e9133751617335576e1d68a5c9398a903f1c287d8383ee2bbb3ae31b17126",
+      "lfs_pointer": false
+    },
+    {
+      "path": "android/app/src/main/res/drawable/mr_control_secondary.xml",
+      "mode": "100644",
+      "git_object": "553eb5549d0bcfaf1a3c0be80c61df05d670b4c2",
+      "bytes": 351,
+      "sha256": "2412c31d82db50172804fc94cba103b82ff0aa0b885cc22fa9b554c08b20af9a",
+      "lfs_pointer": false
+    },
+    {
+      "path": "android/app/src/main/res/drawable/mr_refresh.xml",
+      "mode": "100644",
+      "git_object": "53d19fb5740f1a3bac31701b88ba590cf7afad99",
+      "bytes": 519,
+      "sha256": "2d7b53292f2fa4cd89a6738db053eff76c50bc06303aed1795369191adff6bcc",
+      "lfs_pointer": false
+    },
+    {
+      "path": "android/app/src/main/res/values/styles.xml",
+      "mode": "100644",
+      "git_object": "e3ce06373935823ea675e9f8322e21aefaaff755",
+      "bytes": 414,
+      "sha256": "9278e3861b33f23240dd00a0f0cd105d76d71508f8d7044dde9e28233df897c7",
+      "lfs_pointer": false
+    },
+    {
+      "path": "android/build.gradle",
+      "mode": "100644",
+      "git_object": "55d0ca640c6908edfbbbf5131e8690b2e33fe77d",
+      "bytes": 70,
+      "sha256": "3c3fc43beca35fbf6d0ef33204bbfb8720624ae23219732c153a731c5351cb1d",
+      "lfs_pointer": false
+    },
+    {
+      "path": "android/settings.gradle",
+      "mode": "100644",
+      "git_object": "35cedd42dbfdf72f7820862d481c290efa880015",
+      "bytes": 273,
+      "sha256": "b49373860f1ad4a0a004065a979d73edc84ef133356f7ef9714af537af8ae83d",
+      "lfs_pointer": false
+    },
+    {
+      "path": "android/tests/OccurrenceTest.java",
+      "mode": "100644",
+      "git_object": "d4f8b2e0d0e83e1cacb3a65ca4f637bb7ef162f0",
+      "bytes": 1491,
+      "sha256": "db3dd17353e34b38a06689478e9519bc9a77d9c8b05da7353f92bc2b6a0ba85f",
+      "lfs_pointer": false
+    },
+    {
+      "path": "app-web/app.js",
+      "mode": "100644",
+      "git_object": "5bce3999a92c13f5f0e38b50104c691d09c44990",
+      "bytes": 60719,
+      "sha256": "9049b8dc96ebba21e0d97e7f2f21fd3198920ad24c5d0efef8db69b416e922d8",
+      "lfs_pointer": false
+    },
+    {
+      "path": "app-web/domain.js",
+      "mode": "100644",
+      "git_object": "3e3d29d6e7c883cdc24952f05386d2d6ae6a22eb",
+      "bytes": 5716,
+      "sha256": "01f3c52882e9074c5f6beec8fd7cb845935d1c5760df0e0b2bdc6d3c6f342333",
+      "lfs_pointer": false
+    },
+    {
+      "path": "app-web/favicon-mr-v3.svg",
+      "mode": "100644",
+      "git_object": "964d079e0cdb22be5ce3731c495e930113be8388",
+      "bytes": 1302,
+      "sha256": "7eb1c606586f5fded959206427aadd1626ad114156277acff34505b920dab156",
+      "lfs_pointer": false
+    },
+    {
+      "path": "app-web/fonts/Apache-2.0.txt",
+      "mode": "100644",
+      "git_object": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "lfs_pointer": false
+    },
+    {
+      "path": "app-web/fonts/LICENSE.txt",
+      "mode": "100644",
+      "git_object": "244e102f07eaa2388b83ac9ce7fe2f91c7b16069",
+      "bytes": 1031,
+      "sha256": "94d4b78643f99d7cfa872145b38da578299f401405ca5cba66a5c95bf13933b0",
+      "lfs_pointer": false
+    },
+    {
+      "path": "app-web/fonts/MeuRitmo-Bold.ttf",
+      "mode": "100644",
+      "git_object": "fd79d43bea0293ac1b20e8aca1142627983d2c07",
+      "bytes": 224592,
+      "sha256": "5894a3649b213cf5b2d673b6e7a871815fd1d120fa68a463592f27db14eae323",
+      "lfs_pointer": false
+    },
+    {
+      "path": "app-web/fonts/MeuRitmo-Regular.ttf",
+      "mode": "100644",
+      "git_object": "db433349b7047f72f40072630c1bc110620bf09e",
+      "bytes": 217360,
+      "sha256": "e64e508b2aa2880f907e470c4550980ec4c0694d103a43f36150ac3f93189bee",
+      "lfs_pointer": false
+    },
+    {
+      "path": "app-web/fonts/MeuRitmo-Semibold.ttf",
+      "mode": "100644",
+      "git_object": "1a7679e3949fb045f152f456bc4adad31e8b9f55",
+      "bytes": 221328,
+      "sha256": "aa3b0ef53db12e3d45094030cac0e69d384e44cc5978643dd4390041cad546e2",
+      "lfs_pointer": false
+    },
+    {
+      "path": "app-web/icon.svg",
+      "mode": "100644",
+      "git_object": "964d079e0cdb22be5ce3731c495e930113be8388",
+      "bytes": 1302,
+      "sha256": "7eb1c606586f5fded959206427aadd1626ad114156277acff34505b920dab156",
+      "lfs_pointer": false
+    },
+    {
+      "path": "app-web/icons.js",
+      "mode": "100644",
+      "git_object": "11b0ebf26937e42c8fa98ac8c17fef443e59b092",
+      "bytes": 5215,
+      "sha256": "9cd03560396a37238c315e9f99dc9a20b8c26808652e0c4cf5fa018a6b8930d0",
+      "lfs_pointer": false
+    },
+    {
+      "path": "app-web/index.html",
+      "mode": "100644",
+      "git_object": "06efa437eae666e94e36caf0d271337c5522bd6a",
+      "bytes": 4192,
+      "sha256": "3cb598c3c8427eb539ec8bfc353bce0cf8140fdf2e4054c10f28b770f2789466",
+      "lfs_pointer": false
+    },
+    {
+      "path": "app-web/licenses/lucide.txt",
+      "mode": "100644",
+      "git_object": "718bb3f0e44153809972abed31839375804bf652",
+      "bytes": 3208,
+      "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57",
+      "lfs_pointer": false
+    },
+    {
+      "path": "app-web/licenses/noto-fonts.txt",
+      "mode": "100644",
+      "git_object": "e9dbd010263dc0310e027d02e898786966995c5b",
+      "bytes": 5208,
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125",
+      "lfs_pointer": false
+    },
+    {
+      "path": "app-web/lite-adapter.css",
+      "mode": "100644",
+      "git_object": "9ebc768b3a6df641fa88e9208879351e9375364d",
+      "bytes": 21072,
+      "sha256": "59d627b647ee778a995953842a9fe2baf49dc6d9e1426331c9ca588a434bb6ef",
+      "lfs_pointer": false
+    },
+    {
+      "path": "app-web/manifest.webmanifest",
+      "mode": "100644",
+      "git_object": "4ab30789608918c8ac26ec245704e1b0106a20e9",
+      "bytes": 252,
+      "sha256": "2e681463e25b1a6a30f0b0b78f52befc62aeba9f40af7ad9286aace8cacefef4",
+      "lfs_pointer": false
+    },
+    {
+      "path": "app-web/native.js",
+      "mode": "100644",
+      "git_object": "db2d6e61387b0cef8678ea8ca998096585083221",
+      "bytes": 710,
+      "sha256": "08f76b673236c571da6d166c2fab06b5baef87c2eb371838faf5148684bc391c",
+      "lfs_pointer": false
+    },
+    {
+      "path": "app-web/normal.css",
+      "mode": "100644",
+      "git_object": "7520c300c88216a6e8b8be26c9587384e7d29c80",
+      "bytes": 34720,
+      "sha256": "93f1ef550e009d8af74de6de045f034f1588ea743874530f1eff1c67f467fc86",
+      "lfs_pointer": false
+    },
+    {
+      "path": "app-web/style.css",
+      "mode": "100644",
+      "git_object": "52c777beb926f0532d73d2f1d0c8fef039a08f8d",
+      "bytes": 28082,
+      "sha256": "9090207456c320f235aef7f9cf2221eef4a188e5097ae359949873c688fbb0e1",
+      "lfs_pointer": false
+    },
+    {
+      "path": "dist/_headers",
+      "mode": "100644",
+      "git_object": "c14e5b8dedbb85a44d2640f4147875d071ab71ed",
+      "bytes": 277,
+      "sha256": "c4a1817ff271c68c42e3a8ca9bb5cf148d54f94d6ecfe9ae3913058be560fa97",
+      "lfs_pointer": false
+    },
+    {
+      "path": "dist/download.css",
+      "mode": "100644",
+      "git_object": "5bf46ab19cbd4b2c0d597898147ce6db9b8880bd",
+      "bytes": 12795,
+      "sha256": "89f67874414eaf7af2f79aab1026fa02b7391955b5a0d2b340a83a9fc70e7dc3",
+      "lfs_pointer": false
+    },
+    {
+      "path": "dist/favicon-mr-v3.png",
+      "mode": "100644",
+      "git_object": "4576c5c8f8d6bd3d05b93277b8c0eb88cf050907",
+      "bytes": 5281,
+      "sha256": "49d96711c42976396c69705a5306269aebce45316ece10ad545c38437e6ec69e",
+      "lfs_pointer": false
+    },
+    {
+      "path": "dist/favicon-mr-v3.svg",
+      "mode": "100644",
+      "git_object": "964d079e0cdb22be5ce3731c495e930113be8388",
+      "bytes": 1302,
+      "sha256": "7eb1c606586f5fded959206427aadd1626ad114156277acff34505b920dab156",
+      "lfs_pointer": false
+    },
+    {
+      "path": "dist/favicon.ico",
+      "mode": "100644",
+      "git_object": "662f1271fc0d38afa7d9bca7893b24e2276bbc21",
+      "bytes": 12460,
+      "sha256": "e7415bd482135ac377442a7b1f21732b7a33a3831373893a48d3961639e4fd2f",
+      "lfs_pointer": false
+    },
+    {
+      "path": "dist/fonts/Apache-2.0.txt",
+      "mode": "100644",
+      "git_object": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "lfs_pointer": false
+    },
+    {
+      "path": "dist/fonts/LICENSE.txt",
+      "mode": "100644",
+      "git_object": "244e102f07eaa2388b83ac9ce7fe2f91c7b16069",
+      "bytes": 1031,
+      "sha256": "94d4b78643f99d7cfa872145b38da578299f401405ca5cba66a5c95bf13933b0",
+      "lfs_pointer": false
+    },
+    {
+      "path": "dist/fonts/MeuRitmo-Bold.ttf",
+      "mode": "100644",
+      "git_object": "fd79d43bea0293ac1b20e8aca1142627983d2c07",
+      "bytes": 224592,
+      "sha256": "5894a3649b213cf5b2d673b6e7a871815fd1d120fa68a463592f27db14eae323",
+      "lfs_pointer": false
+    },
+    {
+      "path": "dist/fonts/MeuRitmo-Regular.ttf",
+      "mode": "100644",
+      "git_object": "db433349b7047f72f40072630c1bc110620bf09e",
+      "bytes": 217360,
+      "sha256": "e64e508b2aa2880f907e470c4550980ec4c0694d103a43f36150ac3f93189bee",
+      "lfs_pointer": false
+    },
+    {
+      "path": "dist/fonts/MeuRitmo-Semibold.ttf",
+      "mode": "100644",
+      "git_object": "1a7679e3949fb045f152f456bc4adad31e8b9f55",
+      "bytes": 221328,
+      "sha256": "aa3b0ef53db12e3d45094030cac0e69d384e44cc5978643dd4390041cad546e2",
+      "lfs_pointer": false
+    },
+    {
+      "path": "dist/handoff.js",
+      "mode": "100644",
+      "git_object": "fd4c3e3aec4ba276c7fb08f6f77f3a4f9c2acbe7",
+      "bytes": 1575,
+      "sha256": "eb0cec0cff01d091100f6e34452a64e8bf265937b29998c40e34476019707eb0",
+      "lfs_pointer": false
+    },
+    {
+      "path": "dist/icon.svg",
+      "mode": "100644",
+      "git_object": "964d079e0cdb22be5ce3731c495e930113be8388",
+      "bytes": 1302,
+      "sha256": "7eb1c606586f5fded959206427aadd1626ad114156277acff34505b920dab156",
+      "lfs_pointer": false
+    },
+    {
+      "path": "dist/index.html",
+      "mode": "100644",
+      "git_object": "bf2dd4c7197a7395f8444f5f9d0f1775c0590c23",
+      "bytes": 6941,
+      "sha256": "d542b7239da12ce820733dfb1290e31391ce0809864c2c03099320d290a9ccc0",
+      "lfs_pointer": false
+    },
+    {
+      "path": "dist/manifest.webmanifest",
+      "mode": "100644",
+      "git_object": "3305691e22b6a575bdfa9ce916efc22aad056e9f",
+      "bytes": 506,
+      "sha256": "cad4857da6cd4a9a5a4d2df460dae10a7af01a1fc0b93dcd4bdf56e3ccca996d",
+      "lfs_pointer": false
+    },
+    {
+      "path": "dist/release.json",
+      "mode": "100644",
+      "git_object": "ab269b3fbd14e104ce8836a30033a23f514ecc7e",
+      "bytes": 266,
+      "sha256": "c6190563b78b9cdb42cbab57f76443d399d9b6d6cae4cfc039d76928ccb35d9f",
+      "lfs_pointer": false
+    },
+    {
+      "path": "dist/releases/meu-ritmo-lite-0.1.1-dev.apk",
+      "mode": "100644",
+      "git_object": "9115413008733d73c04bb471dc719dc8b624a1b2",
+      "bytes": 440070,
+      "sha256": "d14aad4f48aeebce05cd82e4fd46988c73808f53694041eafa004229801dc12d",
+      "lfs_pointer": false
+    },
+    {
+      "path": "dist/releases/meu-ritmo-lite-0.1.1-dev.apk.sha256",
+      "mode": "100644",
+      "git_object": "deba38c9eb6054fa0537794f948edec1468a0c2b",
+      "bytes": 95,
+      "sha256": "4ad08ad4136351ee53fc3e0a8cfb9ebe0314976feb0cc513c7f08159d2204f43",
+      "lfs_pointer": false
+    },
+    {
+      "path": "dist/sw.js",
+      "mode": "100644",
+      "git_object": "b75094eb123724b49ea72073e6780279f4fec862",
+      "bytes": 244,
+      "sha256": "d98be2a8c17f775e94befffb66352b2ddcbbc49b1423be4396c22a90f3c99fad",
+      "lfs_pointer": false
+    },
+    {
+      "path": "dist/theme.js",
+      "mode": "100644",
+      "git_object": "14b7f258178da5171a4376479e3dd8041514add1",
+      "bytes": 3376,
+      "sha256": "7fa9933b2c171f4edc66cb1d81bbac01f7ed8f6d22d171d8890f906f04c74df1",
+      "lfs_pointer": false
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "git_object": "cd60ecc369596bb45b9a3437fe70b13872a9f910",
+      "bytes": 125,
+      "sha256": "807a5df8569ec9d5c8b39d75cafd05c4f9537cf4c9a20cd16f38af19bae2c15f",
+      "lfs_pointer": false
+    },
+    {
+      "path": "scripts/build-android.py",
+      "mode": "100644",
+      "git_object": "d3127d283a07609393be2d4fb723e0545c69048e",
+      "bytes": 2160,
+      "sha256": "d278e9352020868c78390a780fe92a84d2941f452973a041ac2dd6cff3106be2",
+      "lfs_pointer": false
+    },
+    {
+      "path": "scripts/release-android.ps1",
+      "mode": "100644",
+      "git_object": "e512ed520ced41f13bf922e042725b5f4a70b977",
+      "bytes": 6990,
+      "sha256": "9eae7bddef5fb369311fe47f033e969dfc840e8fa6b518742ce8f64de333a12a",
+      "lfs_pointer": false
+    },
+    {
+      "path": "scripts/visual-audit.mjs",
+      "mode": "100644",
+      "git_object": "e9caac7d7141361716beca08411170a449954f1c",
+      "bytes": 3055,
+      "sha256": "4cbf1d9db05de8757385334fcecc799fd3ec2838ac35fdf026238496af68b15a",
+      "lfs_pointer": false
+    },
+    {
+      "path": "tests/android-checkout-browser-hand-off.test.mjs",
+      "mode": "100644",
+      "git_object": "b5dcfbfde88b96160e9cc3538f7165c2d38e4d01",
+      "bytes": 1852,
+      "sha256": "feb365712adfc04be3e1d60944a3265f78b4af4c72dc23368a750dce985a847a",
+      "lfs_pointer": false
+    },
+    {
+      "path": "tests/android-offline-update-gate.test.mjs",
+      "mode": "100644",
+      "git_object": "6214e705bbd2c5ceffd7682d09be0fb046c36826",
+      "bytes": 1000,
+      "sha256": "6a6e7ae7d7e4380efec10eeb7d5ab4dac6c2c464ddd8ced44d90e04fc24a097d",
+      "lfs_pointer": false
+    },
+    {
+      "path": "tests/android-release-consistency.test.mjs",
+      "mode": "100644",
+      "git_object": "1ada38d9caaaae92c7ea4d83593c5a1cd838bfa2",
+      "bytes": 1578,
+      "sha256": "04fecd74cc3a3920316c02a8535982df8da572ecdb494120583a408f339e914d",
+      "lfs_pointer": false
+    },
+    {
+      "path": "tests/android-release-missing-tag-20261118.test.mjs",
+      "mode": "100644",
+      "git_object": "842eec4b3c359e30acb29c7c8689fa6685373385",
+      "bytes": 827,
+      "sha256": "9a1f8be781f9ffa019d092ac9753b458bc4b59fc6872488ce95f0a1316a1468d",
+      "lfs_pointer": false
+    },
+    {
+      "path": "tests/android-visible-controls.test.mjs",
+      "mode": "100644",
+      "git_object": "ab14f45e479264949599003126bd7c0ad3a1c756",
+      "bytes": 1408,
+      "sha256": "dc151ab620d001951f68aaec995c70d981c6abb07c569c90f2434288e66dbbfa",
+      "lfs_pointer": false
+    },
+    {
+      "path": "tests/appearance-sync.test.mjs",
+      "mode": "100644",
+      "git_object": "ab6015954474dc229d9f174a006a596ce80684c3",
+      "bytes": 1323,
+      "sha256": "af48bba9850c0e9ce192ef9efdb01df9fec4ce337f625081ac9a341d6d89cff7",
+      "lfs_pointer": false
+    },
+    {
+      "path": "tests/domain.test.mjs",
+      "mode": "100644",
+      "git_object": "80e4b15e0ec58891788ad211ec50f9a6634d842e",
+      "bytes": 3382,
+      "sha256": "d672b3d610562ed647c91da99d3da39c03488ffbd628d85684a0a8db80ec50b9",
+      "lfs_pointer": false
+    },
+    {
+      "path": "tests/platform-install.test.mjs",
+      "mode": "100644",
+      "git_object": "da05d49bd82e27decca837c7b7b00b2609177182",
+      "bytes": 1348,
+      "sha256": "cf70d034033e3c74d1c4ff44e3ae2c2ba09b11101b955f8fc26f1a6fbde99326",
+      "lfs_pointer": false
+    },
+    {
+      "path": "tests/theme-handoff.test.mjs",
+      "mode": "100644",
+      "git_object": "e4cac06e053d4f4ae219e000c2814774f766823a",
+      "bytes": 1443,
+      "sha256": "02e98388ab80469bebd82c991685502f8f2c655c97134770b31b9cb5e8536ad2",
+      "lfs_pointer": false
+    },
+    {
+      "path": "tests/windows-sdk-propertyescape-release.test.mjs",
+      "mode": "100644",
+      "git_object": "709469c66fb59a8484ba56edc73975451bdd2530",
+      "bytes": 1664,
+      "sha256": "117e8fcea83609bb13c0c11e493a4abebb172cc2a891d76e74a7ecc2d4575c88",
+      "lfs_pointer": false
+    },
+    {
+      "path": "wrangler.jsonc",
+      "mode": "100644",
+      "git_object": "6c7a9ba47f0fdbee36ea3958e6b2ec8bb412420a",
+      "bytes": 137,
+      "sha256": "d0092333ba50096925b42518ce3d58545944888f036241eb8b5efb29aa931c3f",
+      "lfs_pointer": false
+    }
+  ],
+  "scope": "Exact tracked Git blob bytes; excludes untracked files, external services/media, LFS content and submodule content. LinkPilot snapshot contains documentation only."
+}
