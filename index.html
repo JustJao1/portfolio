@@ -131,4 +131,5 @@ function frame(t){const dt=Math.min((t-last)/1000,.05);last=t;draw(dt);raf=reque
 function start(){if(raf||reduce.matches||document.hidden)return;last=performance.now();raf=requestAnimationFrame(frame)}function stop(){if(raf){cancelAnimationFrame(raf);raf=0}}
 addEventListener('resize',resize,{passive:true});document.addEventListener('visibilitychange',()=>document.hidden?stop():start());reduce.addEventListener('change',()=>reduce.matches?stop():start());resize();start();
 })();
-</script></body></html>
+</script><!-- Git deployment integration verification: 2026-11-28 -->
+</body></html>
